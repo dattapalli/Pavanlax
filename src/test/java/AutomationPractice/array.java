@@ -10,6 +10,7 @@ public class array {
         {
             System.out.print(num+" ");
         }
+        //fdfhjkj
 
     }
 }
